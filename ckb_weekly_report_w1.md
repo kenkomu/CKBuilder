@@ -1,6 +1,6 @@
 # Builder Track Weekly Report — Week 1
 
-**Name:** Ken Komu  
+**Name:** Kenneth Komu Njoroge  
 **Week Ending:** 05-28-2026
 
 ---
@@ -33,15 +33,15 @@
 
 **Working through the CKB Basic Theory course — hex to decimal exercise:**
 
-![CKB Academy - Basic Theory](../Pictures/Screenshots/CKB1.png)
+![CKB Academy - Basic Theory](screenshots/CKB1.png)
 
 **Viewing live cell data on the CKB Explorer:**
 
-![CKB Explorer - Cell Info](../Pictures/Screenshots/CKB2.png)
+![CKB Explorer - Cell Info](screenshots/CKB2.png)
 
 **Completed the CKB Basic Theoretical Knowledge course:**
 
-![CKB Academy - Course Completed](../Pictures/Screenshots/CKB3.png)
+![CKB Academy - Course Completed](screenshots/CKB3.png)
 
 ---
 
