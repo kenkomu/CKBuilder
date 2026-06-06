@@ -33,15 +33,15 @@
 
 **Working through the CKB Basic Theory course — hex to decimal exercise:**
 
-![CKB Academy - Basic Theory](screenshots/CKB1.png)
+![CKB Academy - Basic Theory](images/CKB1.png)
 
 **Viewing live cell data on the CKB Explorer:**
 
-![CKB Explorer - Cell Info](screenshots/CKB2.png)
+![CKB Explorer - Cell Info](images/CKB2.png)
 
 **Completed the CKB Basic Theoretical Knowledge course:**
 
-![CKB Academy - Course Completed](screenshots/CKB3.png)
+![CKB Academy - Course Completed](images/CKB3.png)
 
 ---
 
