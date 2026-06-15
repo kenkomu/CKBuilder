@@ -1,7 +1,7 @@
 ## Builder Track Weekly Report — Week 3
 
 **Name:** Kenneth Komu Njoroge\
-**Week Ending:** 06-15-2026
+**Week Ending:** 06-14-2026
 
 ---
 
@@ -40,16 +40,23 @@
 
 - Listed accounts with `ckb-cli account list` to get the testnet address for each account.
 - Ran `wallet transfer` from account #0 to account #1, hitting a few password errors before getting the password right and getting back a transaction hash.
+- Ran a second transfer between the two accounts and used `rpc get_transaction` to pull back the full transaction and inspect every field: `cell_deps`, `inputs` with their `previous_output` out points, and `outputs` showing the 100 CKB sent and the change amount returned.
 
-![Listing accounts and running the wallet transfer — password error then success](images/CKB3-1.png)
+---
 
-- Ran a second transfer between the two accounts, again getting the password wrong a couple of times before succeeding with a new transaction hash.
+### Proof of Work
 
-![Second transfer between accounts — final success with tx hash returned](images/CKB3.2.png)
+**Listing accounts and running the first wallet transfer — password errors then a successful tx hash:**
 
-- Used `rpc get_transaction` with that hash to pull back the full transaction and inspect every field: `cell_deps`, `inputs` with their `previous_output` out points, and `outputs` showing the 100 CKB sent and the change amount returned.
+![ckb-cli account list and wallet transfer from account 0](images/CKB3-1.png)
 
-![Examining the transaction via RPC — full structure visible including inputs, outputs, and cell deps](images/CKB3.3.png)
+**Second transfer between accounts — successful tx hash returned:**
+
+![wallet transfer from account 0 to account 1](images/CKB3.2.png)
+
+**Examining the transaction via RPC — full structure including inputs, outputs, and cell deps:**
+
+![rpc get_transaction output showing full transaction structure](images/CKB3.3.png)
 
 ---
 
