@@ -1,7 +1,7 @@
 ## Builder Track Weekly Report — Week 12
 
 **Name:** Kenneth Komu Njoroge\
-**Week Ending:** 09-07-2026
+**Week Ending:** 08-25-2026
 
 ---
 
